@@ -16,7 +16,7 @@ header .container {
 }
 
 header .logoArea img {
-    width: 100px;
+    height: 60px;
 }
 
 header .logoArea img:hover {
